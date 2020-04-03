@@ -1,0 +1,3 @@
+com\test\junit\microservice\orders\OrdersControllerTests.class
+com\test\junit\microservice\orders\OrdersControllerTests$TestOrdersRepository.class
+com\test\junit\microservice\orders\OrdersMain.class

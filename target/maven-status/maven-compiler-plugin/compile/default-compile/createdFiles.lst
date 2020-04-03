@@ -1,0 +1,8 @@
+com\test\microservices\orders\OrdersConfiguration.class
+com\test\microservices\services\Main.class
+com\test\microservices\orders\Orders.class
+com\test\microservices\services\orders\OrdersServer.class
+com\test\microservices\exceptions\RecordNotFoundException.class
+com\test\microservices\orders\OrdersController.class
+com\test\microservices\orders\OrdersRepository.class
+com\test\microservices\orders\OrderManager.class
